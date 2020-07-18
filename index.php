@@ -11,7 +11,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Gregeo - UnB</title>
 <meta name="description" content="Grupo Espeleológico da Geologia da Universidade de Bras&iacute;lia" />
-<meta name="keywords" content="espeleologia, caverna, caving, carste, sistema c&aacute;rstico, universidade de bras&iacute;lia, unb, gregeo, geologia, biologia, morcego, subterr&acirc;neo, cavidade subterrânea, buraco, dolina, gruta, lapa, espeleo, speleo" />
+<meta name="keywords" content="bambui, paranoa, espeleologia, caverna, caving, carste, sistema c&aacute;rstico, universidade de bras&iacute;lia, unb, gregeo, geologia, biologia, morcego, subterr&acirc;neo, cavidade subterrânea, buraco, dolina, gruta, lapa, espeleo, speleo" />
 
 	<!-- CSS do validador do email -->
     <link href="css/SpryValidationTextField.css" rel="stylesheet" type="text/css" />
